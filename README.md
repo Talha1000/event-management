@@ -19,6 +19,7 @@ A web-based event management system built with PHP, MySQL, and Bootstrap.
 
 
 ## Technologies Used
+- Xampp
 - PHP
 - MySQL
 - Bootstrap 5
